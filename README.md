@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axrorfayzullayev
+- 👋 Hi, I’m Akhror Fayzullayev
 - 👀 I’m Java Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Scanner6601052@gmail.com
